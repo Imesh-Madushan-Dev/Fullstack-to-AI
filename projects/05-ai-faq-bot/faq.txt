@@ -1,0 +1,11 @@
+What are your support hours?
+Our support team is available Monday to Friday from 9:00 AM to 6:00 PM local time.
+
+How can I reset my password?
+Click "Forgot password" on the sign-in page and follow the email instructions.
+
+Do you offer refunds?
+Yes. We offer a 14-day refund window for annual plans if requested through support.
+
+How do I contact support?
+Email support@example.com with your account email and issue details.

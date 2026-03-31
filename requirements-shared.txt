@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+requests
+streamlit
+pypdf
+scikit-learn
+fastapi
+uvicorn
+pydantic

@@ -1,0 +1,2 @@
+{"messages":[{"role":"user","content":"Write a friendly welcome message for a new customer."},{"role":"assistant","content":"Welcome aboard! We are excited to have you with us and are here to help anytime."}]}
+{"messages":[{"role":"user","content":"Rewrite this sentence to sound professional: we fixed it"},{"role":"assistant","content":"The issue has been resolved."}]}

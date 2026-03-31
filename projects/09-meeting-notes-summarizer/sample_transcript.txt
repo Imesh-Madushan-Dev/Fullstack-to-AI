@@ -1,0 +1,6 @@
+Alex: Thanks everyone for joining. We need to finalize the launch date.
+Mina: Engineering can finish QA by April 10.
+Sam: Marketing needs one week after QA for campaign prep.
+Alex: Then let's target April 17 for launch.
+Mina: I will share final test report by April 9.
+Sam: I will draft launch email by April 12.

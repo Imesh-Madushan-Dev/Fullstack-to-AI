@@ -1,0 +1,5 @@
+Product Notes
+
+Version 2.0 introduces offline mode and advanced reporting.
+Enterprise customers get priority support and SSO integration.
+The roadmap includes mobile-first dashboards in Q3.
